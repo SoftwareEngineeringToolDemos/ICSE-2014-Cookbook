@@ -5,7 +5,7 @@ In Situ Code Completion using Edit Recipes Learned from Examples
 
 ***
 
-This repository contains information related to the tool Cookbook presented in the International Conference on Software Engineering, 2014.The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?id=2591076).
+This repository contains information related to the tool Cookbook presented in the International Conference on Software Engineering, 2014. The tool was originally presented in [this paper](http://dl.acm.org/citation.cfm?id=2591076).
 
 This repository _is not_ the original repository for this tool. 
 
