@@ -17,4 +17,7 @@ In this repository, for Cookbook you will find:
 
 This repository was constructed by [Shraddha Naik] (https://github.com/Shraddha512) under the supervision of [Emerson Murphy-Hill] (https://github.com/CaptainEmerson).
 
+## Attribution
+
+Author of tool: John Jacobellis, Na Meng and Miryung Kim	
 
