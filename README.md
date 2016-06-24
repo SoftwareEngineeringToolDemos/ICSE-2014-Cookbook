@@ -10,10 +10,8 @@ This repository contains information related to the tool Cookbook presented in t
 This repository _is not_ the original repository for this tool. 
 
 In this repository, for Cookbook you will find:
-
-* :x: Source code
-* :x: Binaries
-* :x: The original tool
+* :x: Source code (not available)
+* :x: Executable tool (not available)
 * :x: Virtual machine containing tool (not available)
 
 This repository was constructed by [Shraddha Naik] (https://github.com/Shraddha512) under the supervision of [Emerson Murphy-Hill] (https://github.com/CaptainEmerson).
